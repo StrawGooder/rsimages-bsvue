@@ -18,7 +18,7 @@ var items = ref([
 ])
 
 export default defineComponent({
-    name: "rsImageManagePlane",
+    name: "RsImageManagePlane",
     data(){
 
         return {items:items}
